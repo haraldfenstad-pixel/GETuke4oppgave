@@ -1,0 +1,14 @@
+body {
+  background-image: url("graffiti.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.blaa-boks {
+  background-color: #0056b3; /* En dyp, lesbar blåfarge */
+  color: #ffffff;            /* Hvit tekst */
+  padding: 16px;             /* Luft rundt teksten */
+}
